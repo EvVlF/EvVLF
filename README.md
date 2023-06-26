@@ -19,7 +19,7 @@
 
 A handy list of my projects:
 + [engineering software for dimensioning with tolerances and fits](https://github.com/EvVlF/Tolerance)
-+ [little bash script for move FireFox(any browser with change 1 parameter) window on second non-primary screen](https://github.com/EvVlF/moveFirefox)
++ [little bash script for move FireFox window on second non-primary screen when start IDE](https://github.com/EvVlF/moveFirefox)
 + [calculator implementation](https://github.com/EvVlF/CalcuLate)
 + [implementation of Caesar's cipher decryption](https://github.com/EvVlF/Caesar-s-cipher/tree/main/src/com/EvDroid)
 + [implementation of the game 20 matches](https://github.com/EvVlF/20-pain-in-the/tree/main/src/com/EvDroid)
