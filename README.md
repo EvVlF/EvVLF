@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: **Join in IT)**
 
-- 🌱 I’m currently learning: **Frontend**
+- 🌱 I’m currently learning: **Spring** / **Frontend**
 
 - 🤝 I’m looking for: **Mentor / internship**
 
