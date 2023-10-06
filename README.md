@@ -19,7 +19,7 @@
 
 A handy list of my projects:
 + [engineering software for dimensioning with tolerances and fits](https://github.com/EvVlF/Tolerance)
-+ [spring boot + jddbc](https://github.com/EvVlF/java-jdbc-template)
++ [spring boot + jdbc](https://github.com/EvVlF/java-jdbc-template)
 + [little bash script for move FireFox window on second non-primary screen when start IDE](https://github.com/EvVlF/moveFirefox)
 + [calculator implementation](https://github.com/EvVlF/CalcuLate)
 + [implementation of Caesar's cipher decryption](https://github.com/EvVlF/Caesar-s-cipher/tree/main/src/com/EvDroid)
