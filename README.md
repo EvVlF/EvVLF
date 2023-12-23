@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Evgeny</h1>
 <h3 align="center">java backend developer</h3>
 
-- 🔭 I’m currently working on: **Join in IT)**
+- 🔭 I’m currently working on: **Join the IT)**
 
 - 🌱 I’m currently learning: **Spring** / **Frontend**
 
