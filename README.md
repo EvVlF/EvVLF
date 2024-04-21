@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: **Join the IT)**
 
-- 🌱 I’m currently learning: **Spring** / **Tribe project**
+- 🌱 I’m currently learning: **ORM**, **Rust**
 
 - 🤝 I’m looking for: **Mentor / internship**
 
